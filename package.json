@@ -1,0 +1,26 @@
+{
+  "name": "ch-basic-calculator-40325",
+  "version": "1.0.0",
+  "description": "This is a example to class 33 in backend developer course.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "calculator",
+    "addition",
+    "subtraction",
+    "division",
+    "multiplication"
+  ],
+  "author": "Coder House",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
